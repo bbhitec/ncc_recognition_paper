@@ -1,2 +1,2 @@
-# ncc_recognition_paper
+# ncc_recognition
 Using NCC for Object Recognition Paper

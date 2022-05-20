@@ -18,6 +18,10 @@ This paper explores the advantages and the flaws of using NCC for sub-patterns r
 - Academic paper writing and formatting
 
 
+### Skills stack
+![matlab](https://img.shields.io/badge/matlab-scripting-blue)
+![scientific notation](https://img.shields.io/badge/scientific-notation-lightgrey)
+
 ## Usage
 Run `brochure_test.m` in MATLAB software or
 use it in MATLAB live editor:
